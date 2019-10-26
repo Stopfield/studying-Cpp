@@ -8,7 +8,5 @@ int main(){
     cout << "Outra linha de texto" << endl;
 
     cout << "Isso foi adicionado com um branch bem legal" << endl;
-
-
     return 0;
 }
